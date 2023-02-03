@@ -22,6 +22,7 @@
 <div>
   <a href="https://www.linkedin.com/in/hellen-lemos-260aa748/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:hellen.raile@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/Hellemos" target="_blank"><[img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)></a>
   <a href="https://instagram.com/hellemos_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
